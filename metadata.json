@@ -1,0 +1,6 @@
+{
+  "name": "Proyect 3D - Impresión 3D y Prototipado Industrial en Torrijos",
+  "description": "Líder en impresión 3D y prototipado industrial en Torrijos (Toledo). Visor interactivo STL con cálculo automático de dimensiones, volumen y cotización inmediata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
